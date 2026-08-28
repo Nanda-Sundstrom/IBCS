@@ -54,11 +54,12 @@ print()
 #example 6
 smallest=0
 largest=0
+
 for b in range(51):
     value=b*(b-30)*(b-50)
     if value<smallest:
         smallest=value
     if value>largest:
         largest=value
+
 print(smallest, largest)
-#Homework is questions 1-5 (do these)
