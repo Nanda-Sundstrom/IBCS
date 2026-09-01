@@ -8,18 +8,18 @@ print()
 
 #2 #thisiswrongsomehow
 b=998
-for c in range(50):
+while b>=900:
     print(b, end=' ')
     b-=2
 
 print()
 
 #3
-for d in range(1, 21):
+for d in range(0, 20):
     if d%2==0:
-        d=-1
-    else:
         d=1
+    else:
+        d=-1
     print(d, end=' ')
 
 print()

@@ -9,3 +9,8 @@
 
 #3
 #Preventing accidental value changes and making code easier to read
+
+"""1. Fundamental computer operations include addition and multiplication,
+while compound computer operations include database querying and running a program
+2. A compiler converts human readable code into computer readable code, which is faster and more efficient
+3. Constants are great for static values, like months in a year"""
