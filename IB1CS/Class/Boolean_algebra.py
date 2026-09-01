@@ -1,6 +1,3 @@
-#this was supposed to be made in a new 'project' thing in a new repository: redo the last steps??
-#how to open repl: >python:start terminal repl (probs not native)
-#nothingdoneyetdw
 #Ex 2 (ex 1 on paper)
 #1
 year=int(input('please give year to check: '))
@@ -21,7 +18,7 @@ print(leap)
 #2
 print(year%400==0 or year%4==0 and year%100!=0) # or using "and not year%100==0"
 
-#Walrus operator (start code imported, no idea where the file went?)
+#Walrus operator (start code imported)
 while (response := input('yes or no: ')) != 'yes' and response != 'no':
        pass # do nothing; provides an empty suite
 
