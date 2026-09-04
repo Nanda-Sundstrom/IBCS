@@ -1,2 +1,3 @@
 lst=[]
-lst.append()
+lst.append(1)
+lst.append(6)
